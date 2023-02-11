@@ -1,11 +1,27 @@
-### Olá! Eu sou o Tkz Dev, Bem vindo ao meu GITHUB🖐️
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ac1212&height=120&section=header"/>
 
-![GitHubstats](https://github-readme-stats.vercel.app/api?username=TkzDev&show_icons=true&theme=dracula)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&pause=500&color=F70000&width=435&lines=Bem+Vindo+ao+meu+GitHub!+Me+chamo+Tkz;Atualmente+sou+desenvolvedor+Front%2FBack-end)](https://git.io/typing-svg)
+----
+[![](https://img.shields.io/badge/Lua-grey.svg?style=for-the-badge&logo=lua)](#)
+[![](https://img.shields.io/badge/Javascript-grey.svg?style=for-the-badge&logo=javascript)](#)
+[![](https://img.shields.io/badge/MySQl-grey.svg?style=for-the-badge&logo=mysql)](#)
+[![](https://img.shields.io/badge/HTML5-grey.svg?style=for-the-badge&logo=HTML5)](#)
+[![](https://img.shields.io/badge/CSS3-grey.svg?style=for-the-badge&logo=CSS3)](#)
+[![](https://img.shields.io/badge/Github-grey.svg?style=for-the-badge&logo=Github)](https://github.com/TkzDev)
+[![](https://img.shields.io/badge/VSCode-grey.svg?style=for-the-badge&logo=VisualStudioCode)](#)
+[![](https://img.shields.io/badge/Minhaloja-grey.svg?style=for-the-badge&logo=Discord)](https://discord.gg/EXhUK9mzXn)
+<br />
+----
+<div align="center" width="100">
+<a href="https://github.com/TkzDev">
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TkzDev&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TkzDev&layout=compact&theme=nord" />
+</a>
+</div>
 
+<p align="center">
+  <img width="100" height="27" src="https://komarev.com/ghpvc/?username=TkzDev&color=blue&style=flat-square&label=Views">
+</p>
 
-### Minhas experiências com desenvolvimento
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ac1212&height=120&section=footer"/>
+
