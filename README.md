@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ac1212&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&pause=500&color=F70000&width=435&lines=Bem+Vindo+ao+meu+GitHub!+Me+chamo+Tkz;Atualmente+sou+desenvolvedor Pleno de +FrontP%2FBack-end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&pause=500&color=F70000&width=435&lines=Bem+Vindo+ao+meu+GitHub!+Me+chamo+Tkz;Atualmente+sou+desenvolvedor+ Pleno+de+FrontP%2FBack-end)](https://git.io/typing-svg)
 ----
 [![](https://img.shields.io/badge/Lua-grey.svg?style=for-the-badge&logo=lua)](#)
 [![](https://img.shields.io/badge/Javascript-grey.svg?style=for-the-badge&logo=javascript)](#)
