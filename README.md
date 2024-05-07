@@ -2,7 +2,7 @@
 <h4 align="center">
   Prazer, me chamo Tkz tenho 17 anos. Sou Desenvolvedor Full-Stack.
 
-  Atualmente estou trabalhando como Desenvolvedor Full-Stack Pleno no Capital Network esse é meu primeiro emprego como desenvolvedor e nunca pensei chegar a nesse nivel que estou tão realizado como estou agora.
+  Atualmente estou trabalhando como Desenvolvedor Full-Stack Pleno na Trigueiro Network e nunca pensei chegar a nesse nivel que estou tão realizado como estou agora.
 </h4>
 
 - 💻 Pleno Full-Stack Developer
