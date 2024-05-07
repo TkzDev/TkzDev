@@ -7,7 +7,7 @@
 
 - 💻 Pleno Full-Stack Developer
 
-- ⚙️ Developer of Capital Network https://discord.gg/brasilcapital
+- ⚙️ Developer of Trigueiro Network https://discord.gg/QfSGu5SAwk
 
 ## 🛠 Languages and Tools:
 
