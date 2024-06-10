@@ -2,12 +2,17 @@
 <h4 align="center">
   Prazer, me chamo Tkz tenho 17 anos. Sou Desenvolvedor Full-Stack.
 
-  Atualmente estou trabalhando como Desenvolvedor Full-Stack na Trigueiro Network e nunca pensei chegar a nesse nivel que estou tão realizado como estou agora.
+  Atualmente estou trabalhando como Desenvolvedor Full-Stack na Paradise Group e nunca pensei chegar a nesse nivel que estou tão realizado como estou agora.
 </h4>
 
 - 💻 Full-Stack Developer
 
-- ⚙️ Developer of Trigueiro Network https://discord.gg/QfSGu5SAwk
+- ⚙️ Developer of Paradise Group
+ 
+| https://discord.gg/cancunrp
+| https://discord.gg/floridarp
+| https://discord.gg/greciarp
+| https://discord.gg/vegasroleplay
 
 ## 🛠 Languages and Tools:
 
