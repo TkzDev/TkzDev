@@ -10,9 +10,6 @@
 - ⚙️ Developer of Paradise Group
  
 | https://discord.gg/cancunrp
-| https://discord.gg/floridarp
-| https://discord.gg/greciarp
-| https://discord.gg/vegasroleplay
 
 ## 🛠 Languages and Tools:
 
