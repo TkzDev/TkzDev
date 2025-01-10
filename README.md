@@ -7,9 +7,9 @@
 
 - 💻 Full-Stack Developer
 
-- ⚙️ Developer of Paradise Group
- 
-| https://discord.gg/cancunrp
+- ⚙️ Galorys
+- ⚙️ MetaGroup
+- ⚙️ LesteGroup
 
 ## 🛠 Languages and Tools:
 
