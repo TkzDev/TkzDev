@@ -7,8 +7,6 @@
 
 - 💻 Full-Stack Developer
 
-- ⚙️ Galorys
-- ⚙️ MetaGroup
 - ⚙️ Goat
 - ⚙️ Clutch
 
