@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tkz Dev</h1>
 <h4 align="center">
-  Prazer, me chamo Tkz tenho 18 anos. Sou Desenvolvedor Full-Stack.
+  Prazer, me chamo Hugo Sou Desenvolvedor Full-Stack.
 
   Estou atuando nas Empresas abaixo como Desenvolvedor Full-Stack e nunca pensei chegar a nesse nivel que estou tão realizado como estou agora.
 </h4>
@@ -9,7 +9,6 @@
 
 - ⚙️ Galorys
 - ⚙️ MetaGroup
-- ⚙️ LesteGroup
 - ⚙️ Goat
 - ⚙️ Clutch
 
