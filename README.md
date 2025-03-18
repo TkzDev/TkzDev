@@ -18,12 +18,15 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-Node-05122A?style=flat&logo=nodedotjs)&nbsp;
 ![CFX Lua/Typescript](https://img.shields.io/badge/-CFX|Typescript-05122A?style=flat&logo=fivem)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
-![Oracle Database](https://img.shields.io/badge/-Oracle%20Database-05122A?style=flat&logo=oracle)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ%20IDEA&logoColor=007ACC)&nbsp;
+![Cursor Editor](https://img.shields.io/badge/-CursorEditor-05122A?style=flat&logo=CursorEditor&logoColor=007ACC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
