@@ -24,7 +24,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ%20IDEA&logoColor=007ACC)&nbsp;
