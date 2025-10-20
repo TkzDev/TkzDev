@@ -7,8 +7,7 @@
 
 - 💻 Full-Stack Developer
 
-- ⚙️ Goat
-- ⚙️ Clutch
+- ⚙️ Santa Group
 
 ## 🛠 Languages and Tools:
 
