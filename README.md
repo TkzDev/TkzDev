@@ -1,13 +1,22 @@
 <h1 align="center">Hi 👋, I'm Tkz Dev</h1>
 <h4 align="center">
-  Prazer, me chamo Hugo Sou Desenvolvedor Full-Stack.
+  Nice to meet you! I'm Hugo 👨‍💻
 
-  Estou atuando nas Empresas abaixo como Desenvolvedor Full-Stack e nunca pensei chegar a nesse nivel que estou tão realizado como estou agora.
+  I'm a Full-Stack Developer currently working at **Santa Group**. Throughout my journey, I’ve reached milestones I never imagined achieving so early, and that drives me to keep learning, improving, and building better solutions every day.
 </h4>
 
-- 💻 Full-Stack Developer
 
-- ⚙️ Santa Group
+<h3 align="center">
+  I love working with technology, exploring new tools, and growing as a developer.
+
+</h3>
+
+</br>
+
+💻 Full-Stack Developer  
+⚙️ Santa Group  
+🌐 Learning English
+
 
 ## 🛠 Languages and Tools:
 
