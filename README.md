@@ -13,8 +13,7 @@
 
 </br>
 
-💻 Full-Stack Developer  
-⚙️ Santa Group  
+💻 Full-Stack Developer    
 🌐 Learning English
 
 
