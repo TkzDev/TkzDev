@@ -14,7 +14,7 @@
 </br>
 
 💻 Full-Stack Developer    
-⚙️ Santa Group 
+⚙️ Santa Group    
 🌐 Learning English
 
 
