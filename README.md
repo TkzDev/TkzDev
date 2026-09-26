@@ -1,20 +1,19 @@
-<h1 align="center">Hola 👋, soy Tkz Dev</h1>
+<h1 align="center">Hi 👋, I'm Tkz Dev</h1>
 <h4 align="center">
-  ¡Encantado de conocerte! Soy Hugo 👨‍💻
+  Nice to meet you! I'm Hugo 👨‍💻
 
-  Soy desarrollador full-stack y actualmente trabajo en **Paradise Group LTDA**. A lo largo de mi trayectoria, he alcanzado hitos que nunca imaginé alcanzar tan pronto, y eso me impulsa a seguir aprendiendo, mejorando y creando soluciones cada vez mejores cada día.
+  I am a full-stack developer, Throughout my journey, I have reached milestones I never imagined achieving so soon, and this drives me to keep learning, improving, and creating better solutions every day.
 </h4>
 
 
 <h3 align="center">
-  Me encanta trabajar con tecnología, explorar nuevas herramientas y crecer como desarrollador.
+  I love working with technology, exploring new tools, and growing as a developer.
 
 </h3>
 
 </br>
 
-💻 Desarrollador full-stack    
-⚙️ Paradise Group LTDA
+💻 Full-stack developer    
 
 ![LUA](https://img.shields.io/badge/-LUA-05122A?style=flat&logo=lua)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
